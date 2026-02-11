@@ -1,5 +1,6 @@
 ## Hi, I'm Lubna Jaradat 
-Computer Engineering Student | Backend Developer
+Computer Engineering Student | Backend Developer  
+
 Node.js, Express, NestJs, Typesript
 
 ## Building
