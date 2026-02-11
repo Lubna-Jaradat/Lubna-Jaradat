@@ -1,4 +1,19 @@
-## Hi there 👋
+## Hi, I'm Lubna Jaradat 
+Computer Engineering Student | Backend Developer
+Node.js, Express, NestJs, Typesript
+
+## Building
+- Secure REST APIs with authentication, validation, and role-based access
+- Database-driven applications using Prisma + MySQL
+- Backend services with efficient data handling and integration
+
+## Working On
+- Event Booking API https://github.com/Lubna-Jaradat/EventBookingAPI
+- Medicine Pharmacy Delivery App (Contributor)
+
+## Contact Me
+ Email: lubna.jaradat14@gmail.com
+   LinkedIn: https://www.linkedin.com/in/lubna-jaradat/
 
 <!--
 **Lubna-Jaradat/Lubna-Jaradat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
