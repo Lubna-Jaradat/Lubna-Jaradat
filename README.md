@@ -9,8 +9,8 @@ Node.js, Express, NestJs, Typesript
 - Backend services with efficient data handling and integration
 
 ## Working On
+- Medicine Pharmacy Delivery App https://github.com/Masa23-03/GSG-Project-Group-1/tree/main
 - Event Booking API https://github.com/Lubna-Jaradat/EventBookingAPI
-- Medicine Pharmacy Delivery App (Contributor)
 
 ## Contact Me
  Email: lubna.jaradat14@gmail.com
