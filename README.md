@@ -1,16 +1,16 @@
 ## Hi, I'm Lubna Jaradat 
 Computer Engineering Student | Backend Developer  
 
-Node.js, Express, NestJs, Typesript
+Node.js, Express, NestJs, Typescript
 
 ## Building
 - Secure REST APIs with authentication, validation, and role-based access
 - Database-driven applications using Prisma + MySQL
 - Backend services with efficient data handling and integration
 
-## Working On
+## Worked On
 - Medicine Pharmacy Delivery App https://github.com/Masa23-03/GSG-Project-Group-1/tree/main
-- Event Booking API https://github.com/Lubna-Jaradat/EventBookingAPI
+- Task Management System https://github.com/Eng-MaysQasem/task-management-system-training
 
 ## Contact Me
  Email: lubna.jaradat14@gmail.com
