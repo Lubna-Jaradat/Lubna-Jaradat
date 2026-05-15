@@ -14,7 +14,7 @@ Node.js, Express, NestJs, Typescript
 
 ## Contact Me
  Email: lubna.jaradat14@gmail.com
-   LinkedIn: https://www.linkedin.com/in/lubna-jaradat/
+
 
 <!--
 **Lubna-Jaradat/Lubna-Jaradat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
